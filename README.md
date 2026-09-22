@@ -1,4 +1,4 @@
-# Sample Data Generation — Process Notes
+# Sample Data Generation
 
 This README documents the steps followed to create the sample data files in
 [`data/`](data/), so students can see the reasoning behind each decision, not
